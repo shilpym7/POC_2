@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27221" started-at="2019-08-13T14:36:30Z" finished-at="2019-08-13T14:36:57Z">
+    <groups>
+    </groups>
+    <test name="Tesng" duration-ms="27221" started-at="2019-08-13T14:36:30Z" finished-at="2019-08-13T14:36:57Z">
+      <class name="TESTNG_TESTS.Test2">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:TESTNG_TESTS.Test2@4678c730]" name="launchbrowser" is-config="true" duration-ms="9662" started-at="2019-08-13T14:36:40Z" finished-at="2019-08-13T14:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="readExcel()[pri:0, instance:TESTNG_TESTS.Test2@4678c730]" name="readExcel" is-config="true" duration-ms="723" started-at="2019-08-13T14:36:50Z" finished-at="2019-08-13T14:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readExcel -->
+        <test-method status="PASS" signature="test4()[pri:5, instance:TESTNG_TESTS.Test2@4678c730]" name="test4" duration-ms="574" started-at="2019-08-13T14:36:51Z" finished-at="2019-08-13T14:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5(java.lang.String, java.lang.String, java.lang.String)[pri:6, instance:TESTNG_TESTS.Test2@4678c730]" name="test5" duration-ms="2690" started-at="2019-08-13T14:36:51Z" data-provider="data" finished-at="2019-08-13T14:36:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shilpymishra788@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hannah]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shilpymishra788@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test5(java.lang.String, java.lang.String, java.lang.String)[pri:6, instance:TESTNG_TESTS.Test2@4678c730]" name="test5" duration-ms="2565" started-at="2019-08-13T14:36:54Z" data-provider="data" finished-at="2019-08-13T14:36:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hakk@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qazplm]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hakk@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TESTNG_TESTS.Test2@4678c730]" name="closeBrowser" is-config="true" duration-ms="183" started-at="2019-08-13T14:36:57Z" finished-at="2019-08-13T14:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TESTNG_TESTS.Test2 -->
+      <class name="TESTNG_TESTS.Test1">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:TESTNG_TESTS.Test1@724af044]" name="launchbrowser" is-config="true" duration-ms="10344" started-at="2019-08-13T14:36:30Z" finished-at="2019-08-13T14:36:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="test1()[pri:2, instance:TESTNG_TESTS.Test1@724af044]" name="test1" duration-ms="152" started-at="2019-08-13T14:36:40Z" finished-at="2019-08-13T14:36:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:3, instance:TESTNG_TESTS.Test1@724af044]" name="test2" duration-ms="72" started-at="2019-08-13T14:36:40Z" finished-at="2019-08-13T14:36:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:4, instance:TESTNG_TESTS.Test1@724af044]" name="test3" duration-ms="52" started-at="2019-08-13T14:36:40Z" finished-at="2019-08-13T14:36:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TESTNG_TESTS.Test1@724af044]" name="closeBrowser" is-config="true" duration-ms="160" started-at="2019-08-13T14:36:40Z" finished-at="2019-08-13T14:36:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TESTNG_TESTS.Test1 -->
+    </test> <!-- Tesng -->
+  </suite> <!-- Suite -->
+</testng-results>
